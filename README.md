@@ -6,6 +6,7 @@ Marketing websites for local businesses. Each business gets its own folder.
 |---|---|---|
 | Bite & Delight Pizza Cafe | [`bites-and-delights/`](bites-and-delights/) | Jhang More, Muzaffargarh |
 | The Sicilian Eatery | [`the-sicilian-eatery/`](the-sicilian-eatery/) | Jhang Road, Muzaffargarh |
+| The Crust Factory by MGM | [`crust-pizza-muzaffargarh/`](crust-pizza-muzaffargarh/) | Jhang Road near Bhutta Pur flyover, Muzaffargarh |
 | Abdalian Science Higher Secondary School | [`abdalian-science-school/`](abdalian-science-school/) | Alipur Road, Dinpur, Muzaffargarh |
 
 ## Run a site locally
@@ -19,7 +20,7 @@ python3 -m http.server 8000
 
 Then open http://localhost:8000.
 
-`the-sicilian-eatery/` and `abdalian-science-school/` are fully self-contained: everything they need is in `index.html`,
+`the-sicilian-eatery/`, `abdalian-science-school/` and `crust-pizza-muzaffargarh/` are fully self-contained: everything they need is in `index.html`,
 so you can also just double-click the file — no server needed.
 
 ## Add a new business
