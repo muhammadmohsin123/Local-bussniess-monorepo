@@ -5,6 +5,7 @@ Marketing websites for local businesses. Each business gets its own folder.
 | Business | Folder | Location |
 |---|---|---|
 | Bite & Delight Pizza Cafe | [`bites-and-delights/`](bites-and-delights/) | Jhang More, Muzaffargarh |
+| The Sicilian Eatery | [`the-sicilian-eatery/`](the-sicilian-eatery/) | Jhang Road, Muzaffargarh |
 
 ## Run a site locally
 
