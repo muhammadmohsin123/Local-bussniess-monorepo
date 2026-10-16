@@ -18,6 +18,9 @@ python3 -m http.server 8000
 
 Then open http://localhost:8000.
 
+`the-sicilian-eatery/` is fully self-contained: its photos are embedded in `index.html`,
+so you can also just double-click the file — no server needed.
+
 ## Add a new business
 
 1. Create a folder named after the business (kebab-case), e.g. `the-sicilian-eatery/`.
